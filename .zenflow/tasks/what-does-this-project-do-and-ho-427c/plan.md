@@ -1,3 +1,12 @@
+# Task Manager — Next.js Scaffold
+
+Scaffolded a Next.js 16 app with TypeScript, Tailwind CSS, ESLint, and App Router into the project root. Dependencies installed and build verified.
+
+### [x] Step: Scaffold Next.js app
+- Ran `create-next-app` with TypeScript, Tailwind, ESLint, App Router, `src/` directory
+- Installed npm dependencies
+- Verified `npm run build` passes
+
 # Auto
 
 ## Configuration
